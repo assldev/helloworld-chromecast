@@ -14,3 +14,4 @@ NOTE: Make sure to check if the URL is still functional first.
 
 # References
 - [DeMille/url-cast-receiver](https://github.com/DeMille/url-cast-receiver)
+- [Debugging](https://developers.google.com/cast/docs/debugging)
