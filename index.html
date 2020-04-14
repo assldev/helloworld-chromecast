@@ -29,5 +29,14 @@
 </body>
 
 <script src="//www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
+<script type="text/javascript">
+  window.onload = function () {
+    window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
+
+    castReceiverManager.onReady = function (event) {
+      window.castReceiverManager.setApplicationState('URL Cast ready...');
+    };
+  }
+</script>
 
 </html>
