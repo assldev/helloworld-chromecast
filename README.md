@@ -9,7 +9,7 @@ This is a sample Chromecast (Receiver) app deployed on Heroku.
 (Out of scope from this repository, but you will need one with a valid application ID)
 ## Receiver App
 You can use the following URL (check if it works first) in the `Google Cast SDK Developer Console` to test your app.
-> `https://helloworld-chromecast-receiver.herokuapp.com/`
+> https://helloworld-chromecast-receiver.herokuapp.com/ (OR) https://assldev.github.io/helloworld-chromecast-receiver/
 NOTE: Make sure to check if the URL is still functional first.
 
 # References
